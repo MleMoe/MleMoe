@@ -1,4 +1,4 @@
-### Hi there 👋, I'm MleMoe(mingshi).
+### Hi there 👋, I'm MleMoe.
 
 I am studying for a master's degree in computer science in China. Like coding and digital art.
 
