@@ -1,4 +1,4 @@
-### Hi there 👋, I'm MleMoe.
+### Hi there 👋, I'm MleMoe (may call me Mia ~ ).
 
 I'm a graduate student majoring in Computer Science at Communication University of China. Like coding and digital art.
 
