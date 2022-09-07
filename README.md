@@ -1,6 +1,6 @@
 A graduate student majoring in Computer Science.
 
-A front-end development engineer intern at @Alibaba.
+Work experience as a software development engineer: @Alibaba and so on...
 
 Interested: Web 3D; Web AR
 
