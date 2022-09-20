@@ -1,6 +1,6 @@
 A graduate student majoring in Computer Science.
 
-Work experience as a software development engineer: @Alibaba and so on...
+Work experience as a SDE: @Alibaba and so on...
 
 Interested: Web 3D; Web AR
 
