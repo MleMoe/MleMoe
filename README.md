@@ -1,8 +1,8 @@
-Major in Computer Science.
+Major in Computer Science.（学了七年计算机
 
-Work in @Alibaba、@ByteDance and so on...
+Work in Alibaba and so on.（各个电子厂打着工
 
-Interested: Web 3D; Web AR
+Interested in Web 3D / MR.（在这做点有趣的事
 
 #### Languages
 
