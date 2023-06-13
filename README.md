@@ -1,6 +1,4 @@
-Major in Computer Science.
-
-Work in Alibaba and so on.
+A Coder.
 
 Interested in Web 3D / MR.
 
